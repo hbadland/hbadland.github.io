@@ -7,7 +7,7 @@ I'm a BSc Chemistry grad exploring Machine Learning and Computational Chemistry.
 - [Computer Vision: Invisibility Cloak](https://github.com/hbadland/invisibility-cloak)
 
 ## 📄 CV
-[Download my CV](./cv.pdf)
+[Download my CV](./cv2025.pdf)
 
 ## 📫 Contact
 - Email: your@email.com
